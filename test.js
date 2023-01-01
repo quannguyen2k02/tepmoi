@@ -1,4 +1,3 @@
 function change(){
-    var element=document.getElementById('div1');
-    element.lastChild.style.color='red';
+    var x=document.getElementById('img').src='capture2.PNG';
 }
